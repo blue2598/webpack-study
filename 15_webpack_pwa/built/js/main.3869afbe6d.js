@@ -1,0 +1,1 @@
+console.log(9),console.log(navigator),"serviceWorker"in navigator&&window.addEventListener("load",(()=>{navigator.serviceWorker.register("/service-worker.js").then((e=>{console.log("serviceWorker运行成功了")})).catch((e=>{console.log("serviceWorker运行失败")}))}));

@@ -1,0 +1,15 @@
+/*!**********************************************************************!*\
+  !*** css ../node_modules/css-loader/dist/cjs.js!./src/css/index.css ***!
+  \**********************************************************************/
+/*
+ * @Descripttion:
+ * @version:
+ * @Author: Young
+ * @Date: 2021-12-06 14:33:11
+ * @LastEditors: Do not Edit
+ * @LastEditTime: 2021-12-06 15:03:41
+ * @FilePath: \notejse:\Demo\webpack-study\11_webpack_cache\src\css\index.css
+ */
+h2 {
+    background-color: pink;
+}

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[43],{411:(u,n,e)=>{function r(u,n){return u*n}function s(u){return new Promise((n=>{n(u)}))}e.r(n),e.d(n,{mul:()=>r,sub:()=>s})}}]);

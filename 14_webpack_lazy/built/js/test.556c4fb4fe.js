@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk=globalThis.webpackChunk||[]).push([[43],{411:(n,s,u)=>{function e(n,s){return n*s}function o(n){return new Promise((s=>{s(n)}))}u.r(s),u.d(s,{mul:()=>e,sub:()=>o}),console.log("test.js文件被加载了")}}]);
